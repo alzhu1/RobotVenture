@@ -13,3 +13,6 @@
 * M - Mute/unmute sound
 * R - Restart Level
 * Esc - Back to Title
+
+### Reflection
+[Reflection](https://github.com/alzhu1/RobotVenture/edit/master/REFLECTION.md)
