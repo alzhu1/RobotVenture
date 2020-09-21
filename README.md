@@ -15,4 +15,4 @@
 * Esc - Back to Title
 
 ### Reflection
-[Reflection](https://github.com/alzhu1/RobotVenture/edit/master/REFLECTION.md)
+[Reflection](https://github.com/alzhu1/RobotVenture/blob/master/REFLECTION.md)
